@@ -1,0 +1,127 @@
+[
+  {
+    "column": 1,
+    "english": "Name of the ward, town, union council, tehsil and district where the marriage took place",
+    "urdu_paraphrase": "جگہ نکاح: وارڈ، قصبہ، یونین کونسل، تحصیل اور ضلع"
+  },
+  {
+    "column": 2,
+    "english": "Name of the bridegroom and his father, with their respective residences",
+    "urdu_paraphrase": "دولہا اور اس کے والد کا نام اور سکونت"
+  },
+  {
+    "column": 3,
+    "english": "Age of the bridegroom",
+    "urdu_paraphrase": "دولہا کی عمر"
+  },
+  {
+    "column": 4,
+    "english": "Name of the bride and her father, with their respective residences",
+    "urdu_paraphrase": "دلہن اور اس کے والد کا نام اور سکونت"
+  },
+  {
+    "column": 5,
+    "english": "Whether the bride is a maiden, a widow or a divorcee",
+    "urdu_paraphrase": "دلہن کنواری ہے، بیوہ ہے یا مطلقہ"
+  },
+  {
+    "column": 6,
+    "english": "Age of the bride",
+    "urdu_paraphrase": "دلہن کی عمر"
+  },
+  {
+    "column": 7,
+    "english": "Name of the vakil, if any, appointed by the bride, and of his father, with their respective residences",
+    "urdu_paraphrase": "دلہن کی طرف سے مقرر وکیل کا نام، ولدیت اور سکونت"
+  },
+  {
+    "column": 8,
+    "english": "Names of the witnesses to the appointment of the bride's vakil, and of their fathers, with their respective residences, and their relationship to the bride",
+    "urdu_paraphrase": "دلہن کے وکیل کی تقرری کے گواہوں کے نام، ولدیت، سکونت اور دلہن سے رشتہ"
+  },
+  {
+    "column": 9,
+    "english": "Name of the vakil, if any, appointed by the bridegroom, and of his father, with their respective residences",
+    "urdu_paraphrase": "دولہا کی طرف سے مقرر وکیل کا نام، ولدیت اور سکونت"
+  },
+  {
+    "column": 10,
+    "english": "Names of the witnesses to the appointment of the bridegroom's vakil, and of their fathers, with their respective residences",
+    "urdu_paraphrase": "دولہا کے وکیل کی تقرری کے گواہوں کے نام، ولدیت اور سکونت"
+  },
+  {
+    "column": 11,
+    "english": "Names of the witnesses to the marriage, and of their fathers, with their respective residences",
+    "urdu_paraphrase": "گواہان نکاح کے نام، ولدیت اور سکونت"
+  },
+  {
+    "column": 12,
+    "english": "Date on which the marriage was contracted",
+    "urdu_paraphrase": "تاریخ نکاح"
+  },
+  {
+    "column": 13,
+    "english": "Amount of dower (haq mehr)",
+    "urdu_paraphrase": "حق مہر کی رقم"
+  },
+  {
+    "column": 14,
+    "english": "How much of the dower is mu'ajjal (prompt) and how much is ghair mu'ajjal (deferred)",
+    "urdu_paraphrase": "مہر معجل کتنا ہے اور غیر معجل کتنا"
+  },
+  {
+    "column": 15,
+    "english": "Whether any portion of the dower was paid at the time of the marriage and, if so, how much",
+    "urdu_paraphrase": "کیا نکاح کے وقت مہر کا کچھ حصہ ادا کیا گیا، اگر ہاں تو کتنا"
+  },
+  {
+    "column": 16,
+    "english": "Whether any property was given in lieu of the whole or any portion of the dower, with its specification and the valuation agreed between the parties",
+    "urdu_paraphrase": "کیا مہر کے بدلے کوئی جائیداد دی گئی، اس کی تفصیل اور طے شدہ قیمت"
+  },
+  {
+    "column": 17,
+    "english": "Special conditions, if any",
+    "urdu_paraphrase": "خصوصی شرائط، اگر کوئی ہوں"
+  },
+  {
+    "column": 18,
+    "english": "Whether the husband has delegated the power of divorce to the wife and, if so, under what conditions",
+    "urdu_paraphrase": "کیا شوہر نے طلاق کا حق بیوی کو تفویض کیا ہے، اگر ہاں تو کن شرائط پر"
+  },
+  {
+    "column": 19,
+    "english": "Whether the husband's right of divorce is in any way curtailed",
+    "urdu_paraphrase": "کیا شوہر کے حق طلاق پر کوئی پابندی ہے"
+  },
+  {
+    "column": 20,
+    "english": "Whether any document was drawn up at the time of the marriage relating to dower, maintenance, etc. and, if so, its contents in brief",
+    "urdu_paraphrase": "کیا نکاح کے وقت مہر، نان و نفقہ وغیرہ کے بارے میں کوئی دستاویز لکھی گئی، اگر ہاں تو مختصر مضمون"
+  },
+  {
+    "column": 21,
+    "english": "Whether the bridegroom has any existing wife and, if so, whether he has secured the permission of the Arbitration Council under the Muslim Family Laws Ordinance, 1961 to contract another marriage",
+    "urdu_paraphrase": "کیا دولہا کی پہلے سے کوئی بیوی ہے، اگر ہاں تو کیا ثالثی کونسل سے دوسری شادی کی اجازت لی گئی"
+  },
+  {
+    "column": 22,
+    "english": "Number and date of the communication conveying to the bridegroom the permission of the Arbitration Council to contract another marriage",
+    "urdu_paraphrase": "ثالثی کونسل کے اجازت نامے کا نمبر اور تاریخ"
+  },
+  {
+    "column": 23,
+    "english": "Name of the person by whom the marriage was solemnized, and of his father, with their respective residences",
+    "urdu_paraphrase": "نکاح خواں کا نام، ولدیت اور سکونت"
+  },
+  {
+    "column": 24,
+    "english": "Date of registration of the marriage",
+    "urdu_paraphrase": "تاریخ رجسٹریشن نکاح"
+  },
+  {
+    "column": 25,
+    "english": "Registration fee paid",
+    "urdu_paraphrase": "ادا شدہ رجسٹریشن فیس"
+  }
+]
